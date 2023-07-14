@@ -4,6 +4,7 @@ public class JobTest {
 
 	public void hardwork() {
 		System.out.println("hardwork = job");
+		System.out.println("Java");
 	}
 	
 }
